@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "build": "webpack",
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server",
+    "install": "npm rebuild node-sass"
   },
   "keywords": ["webpack", "react", "starter", "bare", "kit"],
   "author": "",
