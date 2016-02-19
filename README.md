@@ -21,4 +21,4 @@ Some environments were complaining about node-sass being incompatible with their
 always guarantees step 3.
 
 ## Reference for popular installs
-- `lodash` named module import (e.g.: `{get} from 'lodash'`): `npm i babel-plugin-lodash -S`
+- `lodash` named module import (e.g.: `{get} from 'lodash'`): `npm i lodash babel-plugin-lodash -S`
