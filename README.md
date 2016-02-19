@@ -3,7 +3,7 @@ Quickly start coding with React, Babel, SASS, and Webpack.
 This codebase is intended for developers who want to start coding quickly with minimal setup. Tests, builds, and organization
 is up to the developer.
 
-1. **Download**: `git clone git@github.com:mattlo/react-bare-kit.git YOUR_PROJECT_NAME`
+1. **Download**: `git clone https://github.com/mattlo/react-bare-kit.git YOUR_PROJECT_NAME`
 2. **Install**: `npm install` **supports Node 4.x / NPM 3.x and up only**
 3. **Run**: `npm run start`, go to `http://localhost:3000`
 
