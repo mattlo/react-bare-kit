@@ -17,7 +17,7 @@ Webpack Entry: [src/index.js](https://github.com/mattlo/react-bare-kit/blob/mast
 2. Deploy `./build` on GitHub pages, heroku, nginx, ...; all the files you need are in `./build`.
 
 ## Why `npm rebuild node-sass`?
-Some environments were complaining about node-sass being compatible with their node version. Adding the rebuild step
+Some environments were complaining about node-sass being incompatible with their node version. Adding the rebuild step
 always guarantees step 3.
 
 ## Reference for popular installs
