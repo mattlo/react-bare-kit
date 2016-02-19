@@ -4,7 +4,7 @@ This codebase is intended for developers who want to start coding quickly with m
 is up to the developer.
 
 1. **Download**: `git clone git@github.com:mattlo/react-bare-kit.git YOUR_PROJECT_NAME`
-2. **Install**: `npm install` (Node 4.x / NPM 3.x and up only)
+2. **Install**: `npm install` **supports Node 4.x / NPM 3.x and up only**
 3. **Run**: `npm run start`, go to `http://localhost:3000`
 
 After all steps are done, you may start coding immediately, hot module replacement is enabled already.
