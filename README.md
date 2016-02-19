@@ -9,7 +9,7 @@ is up to the developer.
 
 After all steps are done, you may start coding immediately, hot module replacement is enabled already.
 
-Main File: [src/components/Main/Main.js](https://github.com/mattlo/react-bare-kit/blob/master/src/components/Main/Main.js)
+Main File: [src/components/Main/Main.js](https://github.com/mattlo/react-bare-kit/blob/master/src/components/Main/Main.js)  
 Webpack Entry: [src/index.js](https://github.com/mattlo/react-bare-kit/blob/master/src/index.js)
 
 ## Public Server
