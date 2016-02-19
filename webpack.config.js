@@ -18,7 +18,7 @@ const common = {
   entry: PATHS.app,
   output: {
     path: PATHS.build,
-    filename: '/bundle.js'
+    filename: 'bundle.js'
   },
   plugins: [
     new HtmlWebpackPlugin({
